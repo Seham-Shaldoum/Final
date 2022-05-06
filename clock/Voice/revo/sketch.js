@@ -42,7 +42,7 @@ textSize(windowWidth*0.015);
 fill(251, 136, 163);
 push();
  rotateY(frameCount*0.000045);
-text(text2, -550, 50);
+text(text2, -600, 50);
 pop();
 
 
